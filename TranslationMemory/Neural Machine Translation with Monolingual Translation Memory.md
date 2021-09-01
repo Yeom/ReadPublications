@@ -83,7 +83,7 @@ Translation을 실행하기 전 memory retriever은 monolingual 문장들과 tar
 4. How to optimize the two components jointly using standard maximum likelihood training
 
 ## Overview
-<figure>
+figure 넣기
 
 제안한 모델은 두 단계로 분해할 수 있다 ⇒ 1) Retrieve 2) Generate
 
