@@ -1,4 +1,5 @@
 # Publications list
+읽은 논문들 정리를 해본다.
 ## Machine Translation
 ### Non-Autoregressive model
 - NON-AUTOREGRESSIVE NEURAL MACHINE TRANSLATION

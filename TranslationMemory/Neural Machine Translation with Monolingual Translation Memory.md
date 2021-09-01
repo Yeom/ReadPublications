@@ -1,5 +1,7 @@
 # Neural Machine Translation with Monolingual Translation Memory
 - code : https://github.com/jcyk/copyisallyouneed
+- paper : https://arxiv.org/abs/2105.11269
+
 
 ## Conclusion
 
